@@ -2,7 +2,7 @@
 
 ### The dataset used in this analysis consisted of 11 variables and over 400 records. It was synthetic and generated to mirror real-world conditions. The variables included in this dataset are as follows:
 
-- result sheets link:https://docs.google.com/spreadsheets/d/1k5rG_4BqmLHSNokklVTxGv8T9esLcFGKfxqTWVIDuWg/edit?usp=sharing
+
 
 * Sales: These are the unit sales at each location and are represented in thousands.
 * Competitor Price: This represents the price charged by competitors at each location.
@@ -71,6 +71,6 @@ Moreover, a feature importance analysis was performed to determine which attribu
 * These results indicate that the price charged by competitors had the highest influence on sales prediction. The other influential features include demographic attributes such as the average age and education level of the local population, the price the company charges for car seats, and the community income level. This suggests that both economic factors and demographic characteristics play a significant role in predicting sales in different locations.
 
 The detailed results and insights gathered from this analysis can guide future business strategies. For instance, understanding the importance of competitor pricing could lead to more effective pricing strategies. Similarly, insights about the significance of demographic factors could guide marketing and advertising efforts. Despite some variations in the performance of the different models, each provided valuable insights and can be used as a reliable tool for predicting sales based on various attributes.
-
+- result sheets link:https://docs.google.com/spreadsheets/d/1k5rG_4BqmLHSNokklVTxGv8T9esLcFGKfxqTWVIDuWg/edit?usp=sharing
 загружаешь скрин в репо берешь ссылку и вставляешь сюда:
 ![Image description](https://github.com/mataraimov/bekzat/blob/main/Снимок%20экрана%202023-05-16%20в%2002.28.23.png?raw=true)
